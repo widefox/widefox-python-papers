@@ -1,3 +1,4 @@
+#!/bin/env python2
 def addlist(alist):
     for i in range(0, len(alist)):
         for j in range(i+1, len(alist)):
